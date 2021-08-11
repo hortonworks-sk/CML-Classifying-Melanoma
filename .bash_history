@@ -180,3 +180,19 @@ git status
 git commit -m "requ versions updated & working"
 git push -u origin main
 pip3 install -r requirements.txt 
+git remote -help
+git remote get-url
+git remote get-url -all
+git remote get-url --all
+git remote get-url --all
+git remote get-url --all origin
+git remote set-url origin git@github.com:hortonworks-sk/Classifying-Melanoma-CML-.git
+git remote get-url --all origin
+git add .
+git status
+git push orign main
+git push -u origin main
+git remote set-url origin git@github.com:hortonworks-sk/Classifying-Melanoma-CML.git
+git status
+git push -u origin main
+git remote get-url --all origin
