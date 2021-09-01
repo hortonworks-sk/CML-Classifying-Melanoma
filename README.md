@@ -67,7 +67,7 @@ The setup takes 5 minutes
 
 <br>
 
-<p align="center"><img src="images/CreateProject.PNG" width="600"></p>
+<p align="center"><img src="./images/CreateProject.PNG" width="600"></p>
 
 <p><br><p>
 
@@ -76,7 +76,7 @@ The setup takes 5 minutes
 
 <p><br><p>
 
-<p align="center"><img src="images/CreateProject2.PNG" width="600"></p>
+<p align="center"><img src="./images/CreateProject2.PNG" width="600"></p>
 
 <p><br><p>
 
