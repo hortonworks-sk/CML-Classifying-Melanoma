@@ -63,7 +63,7 @@ The setup takes 5 minutes
 <br>
 
 
-1. In CDSW Go to Projects, and create a New Project
+1. In CML Go to Projects, and create a New Project
 
 <br>
 
@@ -72,7 +72,7 @@ The setup takes 5 minutes
 <p><br><p>
 
 
-2. Name the Project "Melanoma Classification", and in the initial setup use git repo: https://github.com/hortonworks-sk/CDSW-Melanoma2.git , and hit the create button
+2. Name the Project "Melanoma Classification", and in the initial setup use git repo: https://github.com/hortonworks-sk/CML-Classifying-Melanoma.git , and hit the create button
 
 <p><br><p>
 
