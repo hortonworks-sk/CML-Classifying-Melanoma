@@ -196,3 +196,4 @@ git remote set-url origin git@github.com:hortonworks-sk/Classifying-Melanoma-CML
 git status
 git push -u origin main
 git remote get-url --all origin
+git remote get-url origin
