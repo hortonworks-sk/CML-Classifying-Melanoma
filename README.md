@@ -140,49 +140,6 @@ When these runs have completed, you should see the experiments listed as success
 
 
 
-### Pre-Demo Setup
-
-Having the following tabs open, in a Chrome window, may be useful (these are the tabs open in the talk track video):
-
-
-1.  The ISIC dataset homepage (https://www.isic-archive.com/#!/topWithHeader/wideContentTop/main)
-
-
-2.  The CDSW file view of the training data folder http://your-cdsw-host.and-domain.com/yourusername/melanoma-classification/files/demo/data/test/   (This is at the folder path:    demo > data > test  in CDSW)
-
-
-![](images/DataFolders.PNG)
-
-
-
-3.  A Python 3 workbench session (loaded within the Classifying Melanoma project) pointing to the script to train the classifier  (This is at the path:    demo > models > classifier3.py, in CDSW)
-
-
-![](images/CDSWSession_Classifier.PNG)
-
-
-4.  Tensorboard, with the Graph view 
-
-
-
-![](images/TensorboardGraphs.PNG)
-
-
-
-5.  The new Projects http://your-cdsw-host.and-domain.com/projects/new
-
-
-![](images/CDSWSession_Classifier.PNG)
-
-
-
-6.  The experiments page
-
-
-7.   http://[your-cdsw-host.and-domain.com]/projects/new/[your-username]/mel2/runs admin/mel2/runs
-
-
-
 ### Use Case & Industry Applicability
 
 - Use Case:  Diagnosing Melanoma
