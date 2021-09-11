@@ -197,3 +197,16 @@ git status
 git push -u origin main
 git remote get-url --all origin
 git remote get-url origin
+git status
+git add .
+git commit -m "readme changed to pure markup"
+git push orign main
+git remote 
+git remote get-url origin
+git push origin master
+git status
+git push origin main
+git status
+git add .
+git commit -m "readme cleaned"
+git push origin main

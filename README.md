@@ -18,10 +18,6 @@
 
 
 ### 3.
-![](images/TensorboardHistograms.PNG)
-
-
-### 4.
 
 ![](images/Mobile.PNG)
 
@@ -73,15 +69,14 @@ Launch a Python 3 workbench session
 
 ![](images/OpenWorkBench.PNG)
 
+![](images/OpenWorkBench2.PNG)
+
 
 #### 4. 
 
 Navigate to the load-libraries.sh script, and run the script. This will load the libraries needed for the demo.
 
-
-![](images/OpenWorkBench2.PNG)
-
-
+![](images/InstallLibraries.PNG)
 
 #### 5. 
 
@@ -106,10 +101,6 @@ Click on the tensorboard tabs for Scalars , Graph and the Histograms , to check 
 
 
 ![](images/TensorboardGraphs.PNG)
-
-
-![](images/TensorboardScalars.PNG)
-
 
 ![](images/TensorboardHistograms.PNG)
 
