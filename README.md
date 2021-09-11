@@ -154,5 +154,4 @@ When these runs have completed, you should see the experiments listed as success
 - Broader Industry applicability
   - Biotech
   - Pharma
-  - Semiconductor Fabrication
-
+  
