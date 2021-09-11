@@ -108,7 +108,8 @@ Check that the Tensorboard link is displaying in CML and that tensorboard is run
 
 #### 7. 
 
-Click on the tensorboard tabs for Scalars , Graph and the Histograms , to check that these are displaying correctly (each are shown in order below)
+Click on the tensorboard tabs for Graph and Histograms, to check that these are
+displaying correctly.
 
 
 ![](images/TensorboardGraphs.PNG)
