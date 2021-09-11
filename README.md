@@ -4,6 +4,11 @@
 
 ### Summary
 
+In this demonstration we will build a clissifier for melanoma, using a VGG16 Convolutional Network, 
+and transfer learning.  
+
+### Excercises  
+
 1. Take open source images of skin lesions, and use those to build a classifier to detect malignant skin lesions
 2. Evaluate the performance of the model using TensorBoard, and matplotlib in CML
 3. Deploy the model onto a mobile device for use in clinical settings
@@ -13,11 +18,11 @@
 
 ![](images/ISIC.PNG)
 
-### 2.
+### 3.
 ![](images/TensorboardGraphs.PNG)
 
 
-### 3.
+### 4.
 
 ![](images/Mobile.PNG)
 
@@ -67,9 +72,9 @@ and hit the create button
 Launch a Python 3 workbench session
 
 
-![](images/OpenWorkBench.PNG)
+![](images/OpenSession.PNG)
 
-![](images/OpenWorkBench2.PNG)
+![](images/OpenSession2.PNG)
 
 
 #### 4. 
@@ -88,7 +93,7 @@ Navigate to the start_tensorboard.py script, and run this.
 
 #### 6.
 
-Check that the Tensorboard link is displaying in CDSW and that tensorboard is running, by clicking the tensorboard link
+Check that the Tensorboard link is displaying in CML and that tensorboard is running, by clicking the tensorboard link
 
 
 

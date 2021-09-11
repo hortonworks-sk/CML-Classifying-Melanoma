@@ -210,3 +210,10 @@ git status
 git add .
 git commit -m "readme cleaned"
 git push origin main
+git status
+git add .
+git commit -m "readme cleaned"
+git push origin main
+git install -r requirements.txt 
+git instal -r requirements.txt 
+pip3 install -r requirements.txt 
