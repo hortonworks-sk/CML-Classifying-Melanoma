@@ -12,7 +12,13 @@ and transfer learning.
 1. Take open source images of skin lesions, and use those to build a classifier to detect malignant skin lesions
 2. Evaluate the performance of the model using TensorBoard, and matplotlib in CML
 3. Deploy the model onto a mobile device for use in clinical settings
-4. Use the mobile app to determine if a patient needs critical attention from a physician (Note: in the demo we use a model deployed on a mobile device, for simplicity.  I.e. inference happens on the edge, using a low latency, MobileNet model.  The more likely choice for this use case would be to perform classification in batch or perform the inference centrally, using a model with superior performance characteristics (measured by AUC).
+4. Use the mobile app to determine if a patient needs critical attention from a physician.  
+
+In the demonstration we use a model deployed on a mobile device.  I.e. our inference 
+happens on the edge, using a MobileNet model. The more likely choice for this use case would be to 
+perform point inference by calling a more accurate (and compute intensive) model hosted centrally, 
+or to perform classification in batch using a more accurate (and compute intensive) model.
+
 
 ### 1.
 
